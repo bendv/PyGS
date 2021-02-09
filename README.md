@@ -11,3 +11,9 @@ conda install jupyter rasterio scikit-learn scipy rasterio geopandas matplotlib
 ```
 
 These tutorials are written using `jupyter`. There are many tutorials on jupyter online. For example, [this article](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) gives a nice introduction to the concept of jupyter notebooks.
+
+To open the notebooks in this repository, enter the "notebook" directory and run `jupyter`:
+```bash
+cd notebooks
+jupyter notebook
+```
